@@ -8,8 +8,29 @@ I'm a junior MERN Stack Developer from Bangladesh passionate about building resp
 
 Skills:  NEXT.JS/REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on BloodConnect project 
-- 🌱 I’m currently learning Mern Stack 
+## 🌱 Current Activities
+
+- 🔭 Currently building **BloodConnect**, a MERN Stack blood donation platform.
+- 🌱 Exploring **Next.js App Router** and modern React features.
+- 💳 Learning **Stripe Payment Integration** for secure online transactions.
+- 📚 Improving my skills in **Node.js, Express.js, and MongoDB**.
+
+  ## 💻 Skills
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ssdevcmd)  
