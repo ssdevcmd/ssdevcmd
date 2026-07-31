@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img width="1200" height="400" alt="ssdevcmd-github-banner" src="https://github.com/user-attachments/assets/bb3f9343-2d31-421c-a952-c4bd9cb4bb14" />
+<img width="1402" height="1122" alt="ChatGPT Image Jul 31, 2026, 04_11_23 PM" src="https://github.com/user-attachments/assets/796c2a68-3fea-46ac-bdb1-d83f73cc2d42" />
 
 <!--
 **ssdevcmd/ssdevcmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
