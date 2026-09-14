@@ -74,7 +74,7 @@ A full-stack blood donation platform designed to connect blood donors with peopl
 A responsive car rental and booking platform where users can browse vehicles, check availability, view details and manage bookings.
 
 **Tech Stack:**
-`Next.js `React.js` `JavaScript` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Better Auth` `JWT` 
+`Next.js` `React.js` `JavaScript` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Better Auth` `JWT` 
 
 **Key Features:**
 
