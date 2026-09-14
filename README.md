@@ -49,6 +49,10 @@ Skills:  NEXT.JS/REACT / JS / HTML / CSS
 
  I'm continuously learning and improving through projects and hands-on practice.
 
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ssdevcmd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/solayman-sani-933810428//)  
+
+
+
 
 
 
