@@ -39,7 +39,6 @@ Skills:  NEXT.JS/REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ssdevcmd)
 
-- 🌱 I’m currently learning  JavaScript          ████████████████████░░ React.js            ███████████████████░░░ Next.js             ██████████████████░░░░ Tailwind CSS        ███████████████████░░░ REST API            █████████████████░░░░░ Full-Stack Concepts ███████████████░░░░░░░ I'm continuously learning and improving through projects and hands-on practice. 
 
 
 
