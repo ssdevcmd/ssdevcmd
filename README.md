@@ -145,7 +145,7 @@ I'm especially interested in opportunities where I can work with **JavaScript, R
   <a href="https://www.linkedin.com/in/solayman-sani-933810428/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ssph079@gmail.com">
+  <a href="mailto:saniahmed5484@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
