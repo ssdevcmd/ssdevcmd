@@ -52,7 +52,7 @@ I enjoy turning ideas into functional web experiences and continuously improving
 A full-stack blood donation platform designed to connect blood donors with people who need blood.
 
 **Tech Stack:**
-`Next.js` `React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Better Auth`
+`Next.js` `React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Better Auth` `JWT` `Stripe`
 
 **Key Features:**
 
@@ -74,7 +74,7 @@ A full-stack blood donation platform designed to connect blood donors with peopl
 A responsive car rental and booking platform where users can browse vehicles, check availability, view details and manage bookings.
 
 **Tech Stack:**
-`React.js` `JavaScript` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
+`Next.js `React.js` `JavaScript` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Better Auth` `JWT` 
 
 **Key Features:**
 
